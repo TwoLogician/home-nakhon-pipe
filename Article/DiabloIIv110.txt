@@ -1,0 +1,256 @@
+Diablo II v.1.10
+
+3 กรกฎาคม 2546
+Blizzard ปล่อยออกมาแล้วครับ patch v1.10 beta
+ตัวนี้เล่นได้เฉพาะ Single กับ Lan เท่านั้นครับ
+และถ้าลงแล้วจะเล่น B.net ไม่ได้
+ต้อง d/l patch 1.09d มาลงทับ จึงจะเล่นได้
+d/l ได้จากที่นี่ครับ
+http://www.battle.net/diablo2exp/beta/
+
+ส่วนมีอะไรเปลี่ยนแปลงไปบ้างดูได้ที่นี่ครับ เป็นภาษาไทย ผมไปโพสไว้เองแหละ ^^;
+http://www.bwire.net/TMOG/showthread.php?s=3e8913559cf850c264dc7f5a9a7d885d&threadid=2893
+
+และรายละเอียดต่างๆ เป็นภาษาอังกฤษ
+
+Rune word ใหม่ๆ
+http://diabloii.net/items/v110/runewords.shtml
+
+Skill ที่เปลี่ยนไป
+http://diabloii.net/items/v110/skills.shtml
+
+Horadric Cube v1.10 Beta Recipes
+http://www.diabloii.net/items/horadric-d2x.shtml
+
+23 มิถุนายน 2546
+ข้อมูลเกี่ยวกับ Set ใหม่ๆ ครับ
+ตอนนี้มีของ Necromancer เพิ่มเข้ามา
+นั่นคือ Set Trang-Oul's Avatar
+http://www.battle.net/diablo2exp/images/other/vamp01.jpg
+
+เมื่อสะสมได้ครบ จะทำให้ Necromancer กลายเป็น Vampire
+http://www.battle.net/diablo2exp/images/other/vamp02.jpg
+
+ซึ่งจะมีความสามารถเกี่ยวกับไฟ มากมายหลายอย่าง
+เช่น ยิง Firewall, Fireball, Meteor ได้
+อีกทั้งโบนัสของ Set ที่เก็บได้บางส่วนก็มีการเปลี่ยนแปลงเพิ่มเติมอีกด้วย
+
+ส่วน Set Trang-Oul's Avatar มีอะไรบ้าง ดูได้ที่นี่
+http://diabloii.net/items/v110/sets-trangs.shtml
+
+- - - - - - - - - - - - - - - - -
+
+20 มิถุนายน 2546
+http://www.blizzard.com/diablo2exp/chat/030619.shtml
+
+คำถามเกี่ยวกับ v1.10 นะครับ
+เป็นคำถามของ fan site ที่เพิ่งจะถามไปเมื่อวันที่ 19 มิถุนายน ที่ผ่านมานี้เอง
+
+Q - Ladder เป็นอย่างไร
+A - จะมี Item เฉพาะที่จะ Drop เฉพาะการเล่นแบบ Ladder เท่านั้น
+รวมทั้งการผสมใน Horadric cube ใหม่ๆ ด้วย
+
+Q - ทำไมต้องให้มี Item ใหม่ๆ เฉพาะใน Ladder ด้วย
+A - เพราะการเล่นแบบ Ladder จะทำให้มีความสมดุลมากกว่า
+(ไม่งั้น Dupe, Bug, Hack Item ก็เกลื่อนตลาดเหมือนเดิม ฮิฮิ)
+
+Q - มีแผนการอย่างไรกับ Hack, Dupe Item
+A - จะทำการกวาดล้างให้หมดทั้ง Realm (ให้มันจริงเห๊อะ)
+
+Q - ทำอย่างไรกับการที่คน Level สูงมาช่วยคน Level ต่ำ ในการเก็บ Level
+A - ผู้เล่นจะได้รับประสบการณ์ เฉพาะเมื่ออยู่ใกล้ๆ กับ Monster ที่ถูกฆ่าตายเท่านั้น
+อีกทั้ง Quest บาง Quest ไม่สามารถเปิด Town-portal ได้ ต้องให้จบ Quest ก่อนจึงจะใช้ได้ (o_O")
+
+Q - การเล่นในโหมด Ladder จะจบเมื่อไหร่
+A - ไม่รู้เหมือนกัน (ฮิฮิ)
+
+Q - มีการปรับปรุง Rare Item ไหม
+A - มีการปรับปรุงบ้างนิดหน่อย แต่ไม่สามารถทำให้ดีได้ทุกชิ้นหรอก แต่โดยรวมแล้วมีการปรับปรุง
+
+Q - แล้วเกี่ยวกับการ Gambling ล่ะ
+A - มีการปรับปรุงให้สามารถ Gamble ได้ Rare, Set, Unique มีเปอร์เซ็นต์สูงขึ้น
+
+Q - จะหา Rune ระดับสูงได้ง่ายขึ้นหรือเปล่า
+A - แน่นอน โดยใช้ Horadric cube และ Quest Hellforge จะ Drop Rune ที่ดีขึ้น
+รวมทั้ง Countess ก็จะ Drop Rune ที่ดีขึ้นด้วย และปรับปรุงให้ Rune ที่ Drop จะเป็น Rune ระดับสูงมากขึ้น
+
+Q - จะทำอย่างไรบ้างกับ "หู" ที่ตกอยู่ในการดวลกัน (ในห้อง PK นั่นแหละ)
+A - จะทำให้ Item ทุกชนิด ที่ตกอยู่ตามพื้นถูกลบทิ้งในระยะเวลาหนึ่ง
+และจะเพิ่มคำสั่ง "/nopickup" เพื่อป้องกันไม่ให้เกิดการ "หยิบ" โดยไม่ได้ตั้งใจ (ดีจังเลย ^O^ )
+
+Q - แต่ละอาชีพ Skill จะมีความเกี่ยวเนื่องกันไหม
+A - แน่นอน (เช่น Skill บางอย่าง ของ Assassin จะเพิ่มพลังให้แก่อีก Skill หนึ่ง เป็นต้น)
+
+Q - ปรับปรุง Skill ของ Druid บ้างหรือเปล่า
+A - มีการเพิ่ม Damage รวมทั้ง Physical Damage ด้วย และมีความเกี่ยวเนื่องกันของ Skill
+รวมทั้งสามารถใช้ Armageddon ในขณะแปลงร่างได้อีกด้วย
+
+Q - สามารถถอด Item ที่ Socked ไปแล้วได้ไหม
+A - แน่นอน สามารถทำได้ แต่ต้องใช้ Horadric cube และส่วนผสมที่แพงมาก (จะคุ้มไหมเนี่ย...)
+
+Q - ตอนนี้มี Mana Potion วางขายตามร้านแล้ว ส่วนผสมในการทำ Rejuv Potion จะเปลี่ยนไปไหม
+A - แน่นอน ต้องเปลี่ยนไปแน่ และต้องใช้ Gem บางส่วนในการผสมด้วย
+
+Q - มีการเปลี่ยนแปลงของการ PK กันหรือไม่
+A - จะลด Damage ลง และมีการเปลี่ยนแปลงผลของ Skill บางอย่างด้วย ซึ่งจะทำให้การ PK สนุกยิ่งขึ้น
+(PK หมายถึง การที่ผู้เล่นด้วยกัน ต่อสู้กัน ทั้ง Duel หรือ PK หรือ PVP)
+
+Q - Monster จะเก่งขึ้นหรือเปล่า
+A - ศัตรูหลายตัวจะมี HP มากขึ้น มี Skill เพิ่มขึ้น พลังป้องกันเยอะขึ้น เคลื่อนไหวและโจมตีเร็วขึ้น
+และมีค่า Resist เพิ่มมากขึ้น และมีความสามารถมากขึ้น ฯลฯ (โหดแฮะ -_-" )
+
+Q - มีการแก้ไขอย่างไรบ้างเกี่ยวกับการ Hostile เพื่อลอบฆ่าผู้เล่นคนอื่นๆ
+A - แน่นอนว่าจะมีการแก้ไข แต่ยังไม่มีข้อสรุปว่าจะแก้ไขอย่างไรดี (: P)
+
+Q - แก้ Bug Zod Rune หรือเปล่า
+A - ใช่แล้ว เรามี Bug อันนั้น และใช่เราจะแก้มัน และใช่ เราแก้มันแล้ว (^^)
+
+Q - จะรู้ข้อแตกต่างของ Set Item ระหว่าง 1.09 กับ 1.10 ได้อย่างไร
+A - ไม่สามารถดูออกได้ (: P) ในการเล่น Ladder อาจมีได้ทั้ง Set 1.09 และ 1.10
+แต่ทั้งหมดจะได้รับ Bonus เมื่อเก็บได้ครบ Set เช่นเดียวกัน
+
+Q - จะมีการเพิ่ม Level สูงสุดที่เก็บได้ไหม
+A - ไม่ Level สูงสุดจะมีเพียง 99 แต่จะเก็บได้ยากกกกกกก มากกกก (^^;)
+
+Q - จะมี Unique Throwing Item ใหม่ๆ บ้างหรือเปล่า
+A - แน่นอน เราจะเพิ่ม Unique ที่น่าสนใจ อีกทั้งยังมี Unique หลายๆ ชนิดด้วย
+
+Q - จะมีการเปลี่ยนแปลง Skill ของ Hireling บ้างหรือเปล่า
+A - ไม่มีการเปลี่ยนแปลง แต่จะมีการปรับความสมดุล
+
+Q - Item 1.09 จะเปลี่ยนเป็น 1.10 ได้เองหรือไม่
+A - ไม่ คุณต้องหาเอาใหม่เอง (^^;)
+
+Q - มีการเพิ่มความสามารถของ Potion หรือไม่
+A - ใช่ มีการเพิ่มความสามารถของ Health, Mana, Antidote และ Stamina Potion
+
+Q - "โครงกระดูก" ของ Necromancer มีการปรับปรุงหรือไม่
+A - มีการเพิ่ม HP และ Damage ให้จาก Skeleton Mastery
+
+Q - มี Casting Delay ของอะไรอีกบ้าง
+A - มี Casting Delay ของ Valkyrie และ Shadow Master แต่จะมีพลังมากขึ้น
+(Casting Delay คือ จะมีระยะเวลาในการร่ายเวทย์ ไม่สามารถร่ายต่อเนื่อง หรือกดรัวๆ ได้)
+
+Q - มีการทำอะไรกับ Cow Level บ้าง
+A - ปรกติ Cow Level จะเป็นสถานที่หากินของหลายๆ คน แต่ตอนนี้ มันจะยากขึ้น และได้ของยากขึ้นด้วย
+
+Q - ขอรายละเอียดเกี่ยวกับ "World event" หน่อยได้ไหม
+A - แน่นอน มันจะเป็นสิ่งที่ทำให้ผู้เล่นประหลาดใจ และให้ผลตอบแทนมากมายอย่างไม่น่าเชื่อ
+(สรุปว่าไม่ได้บอกอะไรอยู่ดีนั่นแหละ : P)
+
+Q - มีการเปลี่ยนแปลง MF หรือเปล่า
+A - แน่นอน MF จะไม่มีผลกับ Boss แล้ว (o_O") อาจไม่ได้รับ Unique ก็ได้ (: P)
+
+Q - มีข้อคิดเห็นอย่างไรบ้างกับการไล่ฆ่า Boss
+A - ตอนนี้ Boss จะ Drop ของดีที่สุดเพียงครั้งแรก และครั้งเดียวในการฆ่าเท่านั้น
+อีกทั้ง MF ยังไม่มีผลอีกต่างหาก และยังมีเปอร์เซ็นต์ Drop น้อยลงด้วย และฆ่าได้ยากขึ้น (T_T)
+
+Q - สามารถใช้สูตร Horadric cube ผสมจนได้ Zod Rune ได้หรือไม่
+A - ได้ !!!
+
+Q - แล้ว Charm ใน 1.10 ล่ะ
+A - มี Unique Charm เพิ่มเข้ามา (o_O")
+
+Q - แล้วการเปลี่ยนแปลงเกี่ยวกับประสบการณ์ที่จะได้
+A - มีการเปลี่ยนแปลง หลัง Level 70 จะได้รับประสบการณ์น้อยลง
+และการแชร์ประสบการณ์ ต้องอยู่ในพื้นที่ใกล้ๆ กันตอน Monster ตายด้วย จึงจะได้รับประสบการณ์
+
+Q - นอกจาก Skill Whirlwind จะมีการเปลี่ยนแปลงกราฟฟิคแล้ว Skill อื่นๆ จะมีการเปลี่ยนแปลงหรือไม่
+A - แน่นอน !!!
+
+Q - Patch นี้จะเป็น version สุดท้ายหรือเปล่า
+A - ไม่ เราจะออก Patch ใหม่เรื่อยๆ เพื่อแก้ Bug, Dupe, Hack ต่างๆ
+
+จบครับ
+
+- - - - - - - - - - - - - - - - - - - - - - - -
+
+16 มิถุนายน 2546
+
+- New Cube Recipe เพิ่มพลังให้กับ Unique
+	ทำให้ Unique Normal กลายเป็น Unique Excep ได้
+	สูตร Ral + Sol + Perfect Emerald + Unique Item
+	www.battle.net/diablo2exp/images/other/normal.jpg
+	www.battle.net/diablo2exp/images/other/exceptional.jpg
+
+	ทำให้ Unique Excep กลายเป็น Unique Elite ได้
+	Lum + Pul + Perfect Emerald + Unique Item
+	www.battle.net/diablo2exp/images/other/elite.jpg
+
+	โดยคุณสมบัติอาวุธจะเหมือนเดิมทุกประการ
+	แต่พลังโจมตีจะเพิ่มมากขึ้น
+
+	หมายเหตุ
+-	ทำได้เฉพาะ Unique อาวุธเท่านั้น ส่วนเกราะจะต้องใช้ส่วนผสมแบบอื่น
+-	ไม่สามารถข้ามจาก Normal ไปสู่ Elite ได้ ต้องทำตามขั้นตอน
+-	ค่าพลังต่างๆ จะคงเดิม เปลี่ยนไปแต่พลังโจมตี และค่า Require Str, Dex ตามขั้นของอาวุธ
+-	Ethereal ก็ยังคงเป็น Ethereal อยู่ (บางอย่างดีมาก เพราะมี Repair ตัวเอง)
+	(เช่น http://diabloii.net/items/v110/images/110_Eth_Hone_Sundan.jpg)
+-	Item ที่ Socket แล้ว ก็ยังคง Socketed อยู่
+-	สูตรนี้ใช้กับ Buriza ไม่ได้ ไม่รู้ทำไมเหมือนกัน (กลัวจะ God เกิน WF แน่ๆ เลย)
+-	สูตรนี้ใช้กับ Crafted, Sets, Magical, Rare ไม่ได้
+-	ไม่มีเหตุผลที่จะใช้สูตรนี้กับอาวุธพวก Wand, Orb เพราะไม่ได้เอาไปทุบอยู่แล้ว ^^;
+
+	ปัญหา
+	หากใช้สูตรนี้กับ Item ที่ยังไม่ Identify แล้วจะรู้ได้อย่างไรว่า อันไหนเป็นแค่ Excep หรือเป็น Elite
+
+
+- Other Recipe
+	Jah Rune + Jah Rune + Jah Rune +Flawless Ruby = Cham Rune
+	www.battle.net/diablo2exp/images/other/cube01.jpg
+	www.battle.net/diablo2exp/images/other/cube02.jpg
+
+
+- Skill Change
+-	Skill บางอย่างจะมีการเปลี่ยนแปลง
+-	Skill บางอย่างจะมีผลต่อ Skill อื่นๆ ด้วย เช่น จะเพิ่มพลังให้กับ Skill อื่นๆ
+	http://www.battle.net/diablo2exp/images/other/druid01.jpg
+	http://www.battle.net/diablo2exp/images/other/assassin02.jpg
+	http://www.battle.net/diablo2exp/images/other/bonespear.jpg
+	
+
+- การเปลี่ยนแปลงอื่นๆ
+-	Rune Word “Melody” สามารถใช้กับ Bow ได้แล้ว
+	http://www.battle.net/diablo2exp/images/other/Melody.jpg
+-	จะมี Mana Potion วางขายในร้านค้า
+-	Cow Level จะมีการเปลี่ยนแปลง ทำให้ไม่สามารถเก็บ Exp หรือ Item ได้ง่ายๆ อีกต่อไป
+-	สูตรนี้ “3 chipped gems + sword -> magic sword” จะใช้ได้กับอาวุธทุกชนิด
+-	Enhanced Class-Specific Sets – Set หลายๆ อย่างจะถูกปรับปรุง และจะมีความสามารถบางอย่างที่ไม่เคยเห็นมาก่อนเพิ่มขึ้นมาด้วย
+-	New Unique Item – มีเพิ่มขึ้นมาอีกเกือบ 100 ชนิด (ส่วนใหญ่จะเป็น Elite) และบางชนิดจะพบได้เฉพาะใน Single และ Ladder เท่านั้น
+	http://www.battle.net/diablo2exp/images/other/rainbowfacet01.jpg
+	http://www.battle.net/diablo2exp/images/other/azurewrath.jpg 
+-	New Unique Item Properties – Unique บางชนิดจะมีความสามารถใหม่ๆ เพิ่มเข้ามา เช่น Barbarian สามารถแปลงร่างเป็น “หมาป่า” ได้
+	http://www.battle.net/diablo2exp/images/other/wolfhowl.jpg
+-	New Rune Words and Horadric Cube Recipes
+	http://www.battle.net/diablo2exp/images/other/Exile.jpg
+-	Improved Treasure Drops – Item ที่จะ Drop จากหีบ ไห ถ้วย โถ กล่อง และจากศัตรูธรรมดา จะมีคุณภาพดีขึ้น
+-	Improved Quest Rewards – การทำ Quest บอสประจำ Act จะ Drop ของที่ดี แต่ในการฆ่าครั้งต่อๆ ไปจะ Drop Item ที่ธรรมดา และรางวัลจาก Quest บางอย่างจะดีขึ้น
+-	Better Gambling Odds – การ Gambling จะมีโอกาสได้ของที่ดีมากขึ้น
+-	จะมีการสุ่มเกิดของ Monster มากขึ้น
+-	จะมี Boss Monster แบบสุ่มปรากฏมากขึ้น
+-	ปรับปรุง Cow Level
+
+
+
+ด้านล่างนี่เป็น 1.10 ที่หลายๆ คนอยากให้เป็น
+Modifications
+-	เปลี่ยนแปลงค่า Stat ของ Unique และ Set บางอย่าง
+-	มีสูตรการผสมของ Horadric Cube ใหม่ๆ
+-	มี Rune Word ใหม่ๆ เช่น Duress, Famine, Pattern
+-	เพิ่ม Affixes ที่จะมีได้ของ Rare และ Magic
+-	ลด Level Requirement ของ Affixes บางอย่างที่มีใน Rare และ Magic
+-	ปรับปรุง Crafted Item ให้ดีขึ้น
+-	ลดระยะเวลาที่ Hireling จะโดนพิษ
+-	เพิ่มปริมาณของ “อาวุธขว้าง” ที่สามารถถือได้ต่อครั้ง
+-	เพิ่มโอกาสในการ Gambling ได้ Set และ Unique
+-	ศัตรูจะไม่เกิดใกล้กับ Waypoint “Halls of Dead” ของ Act 2 อีกต่อไป
+-	เพิ่มคำสั่ง “Invite All” ในหน้าจอ Party
+-	“Evil Urns” จะมีในทุก Act
+-	สามารถทำ Quest ได้ แม้คน Create เกม จะทำ Quest นั้นไปแล้ว
+-	รางวัลจากการทำ Quest ของ Akara และ Ormus จะมีโอกาสได้เป็นแหวน หรือสร้อย เท่าๆ กัน
+-	การทำ Quest ตี Orb ใน Act 3 จะได้เป็น Rare Jewel
+-	ต่อไปเมื่อจะจ้าง Hireling จะมีคำสั่งให้ “จ้างใหม่” หรือ “ชุบชีวิตตัวเก่า”
+-	Item ที่ได้รับจาก NPC จะไม่ตกพื้นอีกต่อไป แม้ช่องเก็บของจะเต็มก็ตาม
+-	Auras และ Warcries ที่มี Level ต่ำกว่า จะไม่ไปทับอันที่มี Level มากกว่า
+
+ฯลฯ

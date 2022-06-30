@@ -1,0 +1,7 @@
+td {  font-family: "MS Sans Serif", "Microsoft Sans Serif", Arial; font-size: 12pt}
+td.boxc a:link {  width: 100%; padding-left: 5px; color: #0000CC}
+td.boxc a:hover { background-color: #008040; text-decoration: none; width: 100%; padding-left: 5px; color: #000000}
+td.boxc a:visited { width: 100%; padding-left: 5px; text-decoration: none; color: #0000CC}
+td.boxc {  font-family: "MS Sans Serif", "Microsoft Sans Serif", Arial; font-size: 12pt; background-color: #FFFFCC; color: #008040}
+td.boxc a:active { width: 100%; padding-left: 5px; text-decoration: none; color: #8CA5CE; background-color: #000000}
+.small {  font-size: 8px; color: #FF0000}
